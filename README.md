@@ -3,4 +3,7 @@
 
 ### 목록
 * [API 명세서](https://delicious-polyester-fd5.notion.site/API-62df028a33164a8fa46a39d4384ecf69)
-* [Convention]()
+* [Commit Convention]()
+* [Code Convention]()
+* [Issue/PR Convention]()
+* [Branch Convention]()
